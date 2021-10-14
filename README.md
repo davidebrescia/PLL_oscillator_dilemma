@@ -11,7 +11,7 @@ where N, M, P are integers, and:
 
 ## Problem
 Given a user defined frequency "f_user", find the best triplet (N, M, P) that minimizes |f - f_user|.  \
-In practical terms, the user wants a desired exact frequency, for example 100.8 MHz. Is it possibile to obtain that exact frequency, by finding some integer N, M and P? If not, what is the best N, M, P that better approximate the output frequency? 
+In practical terms, the user wants an exact frequency, for example 100.8 MHz. Is it possibile to obtain that exact frequency, by finding some integer N, M and P? If not, what is the best N, M, P that better approximate the output frequency? 
 
 ## Solution
 My algorithm is very fast (100-150 ms).  
